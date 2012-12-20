@@ -1,0 +1,49 @@
+/* application specific styles */
+.x-activity-elec {
+    background-image:url(../img/icon_electricity.gif) !important;
+}
+.x-activity-water {
+    background-image:url(../img/icon_water.jpg) !important;
+}
+.x-activity-flight {
+    background-image:url(../img/icon_plane.png) !important;
+}
+.x-activity-gas {
+    background-image:url(../img/icon_flame.jpg) !important;
+}
+.x-activity-paper {
+    background-image:url(../img/icon_paper.png) !important;
+}
+.x-activity-refrigerant {
+    background-image:url(../img/icon_snowflake.png) !important;
+}
+.x-activity-waste {
+    background-image:url(../img/icon_waste_bin.png) !important;
+}
+.x-activity-recycling {
+    background-image:url(../img/icon_recycling.png) !important;
+}
+.x-activity-default {
+    background-image:url(../img/icon_default.png) !important;
+}
+ 
+/* Ext.ux.IconCombo mandatory styles */
+.x-icon-combo-icon {
+    background-repeat: no-repeat;
+    background-position: 0 50%;
+    width: 18px;
+    height: 18px;
+}
+.x-icon-combo-input {
+    padding-left: 30px;
+}
+.x-form-field-wrap .x-icon-combo-icon {
+    top: 3px;
+    left: 5px;
+}
+.x-icon-combo-item {
+    background-repeat: no-repeat !important;
+    background-position: 3px 50% !important;
+    padding-left: 30px;
+    height: 35px;
+}
